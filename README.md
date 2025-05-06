@@ -1,4 +1,5 @@
 <h1 align="center">sniff 🕵️</h1>
+<p align="center"><sup>Keep your packages healthy✨</sup></p>
 
 ![Image](https://github.com/user-attachments/assets/12bc66e6-65c1-4796-bec1-b7b4c1228d89)
 #
