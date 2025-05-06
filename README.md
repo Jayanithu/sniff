@@ -1,7 +1,6 @@
 <h1 align="center">sniff 🕵️</h1>
 <p align="center"><sup>Keep your packages healthy✨</sup></p>
 
-![Image](https://github.com/user-attachments/assets/12bc66e6-65c1-4796-bec1-b7b4c1228d89)
 #
 **sniff** is a fast and developer-friendly CLI tool that scans your project's dependencies to identify outdated, unmaintained, or low-quality npm packages.  
 It leverages the powerful [npms.io](https://npms.io) API to analyze package health and suggests modern, actively maintained alternatives — helping you keep your project clean, secure, and up-to-date.
